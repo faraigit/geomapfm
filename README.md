@@ -14,7 +14,7 @@
 
 
 -   Free software: MIT license
--   Documentation: https://faraigit.github.io/geomapzw
+-   Documentation: https://faraigit.github.io/geomapfm
     
 
 ## Features
