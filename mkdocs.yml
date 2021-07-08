@@ -46,3 +46,19 @@ nav:
     - Report Issues: https://github.com/faraigit/geomapfm/issues
     - API Reference:
           - geomapfm module: geomapfm.md
+    - Notebooks:
+        - notebooks/ipyleaflet_intro.ipynb 
+        - notebooks/folium_intro.ipynb
+        - notebooks/geodemo_intro.ipynb
+        - notebooks/add_shapefile.ipynb
+        - notebooks/test_utils.ipynb
+        - notebooks/earthengine_intro.ipynb
+        - notebooks/ipywidgets.ipynb
+        - notebooks/ipywidgets_box.ipynb
+        - notebooks/ipywidgets_events.ipynb
+        - notebooks/toolbar.ipynb
+        - notebooks/ipyfilechooser.ipynb
+        - notebooks/whitebox.ipynb
+        - notebooks/geopandas.ipynb
+        - notebooks/csv_to_points.ipynb
+          
